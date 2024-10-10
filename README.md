@@ -1,2 +1,2 @@
 # Drawing
-Drawing practice
+크로키를 그리고 업로드 하는 공간입니다.
